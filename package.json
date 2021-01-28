@@ -1,23 +1,11 @@
 {
-  "name": "page-fetcher",
+  "name": "page_fetcher",
   "version": "1.0.0",
-  "description": "",
-  "main": "fetcher.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CaiaCC/page-fetcher.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CaiaCC/page-fetcher/issues"
-  },
-  "homepage": "https://github.com/CaiaCC/page-fetcher#readme",
+  "main": "index.js",
+  "repository": "git@github.com:CaiaCC/page-fetcher.git",
+  "author": "Caia Chuang <caiachuang@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "fs": "0.0.1-security",
     "request": "^2.88.2"
   }
 }
